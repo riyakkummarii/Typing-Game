@@ -1,0 +1,42 @@
+body{
+  background-color:#ffc38b;
+}
+.heading{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 4rem;
+  text-shadow: 2px 2px #ff0000;
+}
+.foot{
+  text-align: center;
+}
+.App {
+    text-align: center;
+    font-family: monospace;
+   
+  }
+  
+  .Character {
+    white-space: pre;
+  }
+  
+  .Character-current {
+    background-color:wheat;
+
+  }
+  
+  .Character-out {
+    color: silver;
+  }
+  h3{
+font-size: 1.8rem;
+margin :5rem;
+color:goldenrod;
+
+  }
+  .charStyle{
+    font-size:2em ;
+  }
+  footer{
+    margin :2rem;
+  }

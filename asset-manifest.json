@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Typing-Game/static/js/main.d63ad8e8.chunk.js",
+    "main.js.map": "/Typing-Game/static/js/main.d63ad8e8.chunk.js.map",
+    "runtime-main.js": "/Typing-Game/static/js/runtime-main.5c05e870.js",
+    "runtime-main.js.map": "/Typing-Game/static/js/runtime-main.5c05e870.js.map",
+    "static/js/2.bef16793.chunk.js": "/Typing-Game/static/js/2.bef16793.chunk.js",
+    "static/js/2.bef16793.chunk.js.map": "/Typing-Game/static/js/2.bef16793.chunk.js.map",
+    "index.html": "/Typing-Game/index.html",
+    "precache-manifest.57db6052591996e7450284746a00e1d5.js": "/Typing-Game/precache-manifest.57db6052591996e7450284746a00e1d5.js",
+    "service-worker.js": "/Typing-Game/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c05e870.js",
+    "static/js/2.bef16793.chunk.js",
+    "static/js/main.d63ad8e8.chunk.js"
+  ]
+}
